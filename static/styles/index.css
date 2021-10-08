@@ -1,0 +1,21 @@
+.board{
+    width: 40rem;
+    margin: auto;
+}
+
+.cell{
+    border-style: solid;
+    border-width: medium;
+    border-color: #7955487a;
+    height: 5rem;
+    text-align: center;
+    font-size: 24px;
+}
+
+.status{
+    font-size: 60px;
+    font-weight: bolder;
+    position: absolute;
+    margin-top: -15%;
+    text-align: center;
+}
